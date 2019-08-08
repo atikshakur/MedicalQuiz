@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MedicalQuiz</string>
+    <string name="today_s_flashcard">Today\'s Flashcard</string>
+</resources>
